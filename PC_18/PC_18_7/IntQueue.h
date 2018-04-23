@@ -19,7 +19,6 @@ public:
 	void dequeue(int &);
 	bool isEmpty();
 	void clear();
-	// Exemption classes
 	class OverFlow{};
 	class UnderFlow{};
 };
